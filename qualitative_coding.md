@@ -8,7 +8,7 @@ title: 'Qualitative coding'
 The videos in the _Qualitative Coding Series_ introduce coding theory and concepts with demonstrations in NVivo (CAQDAS is an acronym for _Computer-Assisted Qualitative Data Analysis_). The series was created and presented by Amir Michalovich with funding from a UBC [OER Rapid Innovation Grant](https://oerfund.open.ubc.ca/oer-rapid-innovation-grants/). (Also available as a YouTube playlist at [Link to YouTube set]).
 
 [Part 1: Coding in CAQDAS](#coding-in-caqdas)<br/>
-[Part 2: Categorization and code herarchies in CAQDAS](#categorization-and-code-hierarchies-in-caqdas)<br/m >
+[Part 2: Categorization and code herarchies in CAQDAS](#categorization-and-code-hierarchies-in-caqdas)<br/>
 [Part 3: Qualitative coding tips](#qualitative-coding-tips)
 
 
