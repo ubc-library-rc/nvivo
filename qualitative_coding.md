@@ -22,7 +22,7 @@ The videos in the _Qualitative Coding Series_ introduce coding theory and concep
 <!-- css and iframe parameters for auto-sizing with the correct aspect ratio are from https://css-tricks.com/fluid-width-video/ -->
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;">
-<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%" width="560" height="349" src="https://www.youtube.com/embed/_lJIVs7ftNg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%" width="560" height="349" src="https://www.youtube.com/embed/7Gbiakc-TC4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 <div style="border: thin dotted grey; background-color: Ghostwhite; margin: 0.5em; padding: 0.5em">
@@ -43,7 +43,7 @@ The videos in the _Qualitative Coding Series_ introduce coding theory and concep
 - Tips for creating and managing code hierarchies
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;">
-<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%" width="560" height="349" src="https://www.youtube.com/embed/0Zln78CcFkA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%" width="560" height="349" src="https://www.youtube.com/embed/DmNNHXSuWo4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 <div style="border: thin dotted grey; background-color: Ghostwhite; margin: 0.5em; padding: 0.5em">
@@ -64,7 +64,7 @@ The videos in the _Qualitative Coding Series_ introduce coding theory and concep
 - Reviewing codes 
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;">
-<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%" width="560" height="349" src="https://www.youtube.com/embed/LKTejyk9ZIA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%" width="560" height="349" src="https://www.youtube.com/embed/498bTZFeVX8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 <div style="border: thin dotted grey; background-color: Ghostwhite; margin: 0.5em; padding: 0.5em">
