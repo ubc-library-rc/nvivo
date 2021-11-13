@@ -26,43 +26,32 @@ If you have any questions or concerns please email [research.commons@ubc.ca](mai
 
 
 ## Workshop slides
- - [NVivo part 1 slides (pdf)](2021_NVIVO_Part_1.pdf){:target="_blank"}
- - [NVivo part 2 slides (pdf)](2021_NVIVO_Part_2.pdf){:target="_blank"}
+ - [NVivo part 1 slides (pdf)](slides/2021_NVIVO_Part_1.pdf){:target="_blank"}
+ - [NVivo part 2 slides (pdf)](slides/2021_NVIVO_Part_2.pdf){:target="_blank"}
 
 ## Sample files
 Files from an NVivo sample project that documented community perceptions of development and land-use change on coastal communities in the Down East area of Carteret County, North Carolina, USA.
 
-- [Interview sample](media/Barbara.docx)
-- [PDF sample](media/Crossroads marks 30 years.pdf)
-- [Audio sample](media/sample-audio.mp3)
-- [Video sample](media/Ken.wmv)
-- [Image sample](media/Barrier island developed.jpg)
-- [Sample survey responses](media/NVivo_Survey_Responses.xlsx)
-- [PC classification sheets](media/Classification_sheets_PC.zip)
-- [Mac classification sheets](media/Classification_Sheets_Mac.zip)
-- [Mendeley literature for Mac and PC](media/Papers.ris)
-- [Mac sample project (for Mendeley literature)](media/Sample project_31219.nvpx)
-- [PC sample project (for Mendeley literature)](media/TestIntermediateWS_PC_updated (NVivo 12).nvp)
-- [Mac literature review code list](media/Literature_Review_Code_List_MAC.nvpx)
-- [PC literature review code list](media/Literature_Review_Code_List_PC.nvp)
+- [Interview sample](sample_project/Barbara.docx)
+- [PDF sample](sample_project/Crossroads marks 30 years.pdf)
+- [Audio sample](sample_project/sample-audio.mp3)
+- [Video sample](sample_project/Ken.wmv)
+- [Image sample](sample_project/Barrier island developed.jpg)
+- [Sample survey responses](sample_project/NVivo_Survey_Responses.xlsx)
+- [PC classification sheets](sample_project/Classification_sheets_PC.zip)
+- [Mac classification sheets](sample_project/Classification_Sheets_Mac.zip)
+- [Mendeley literature for Mac and PC](sample_project/Papers.ris)
+- [Mac sample project (for Mendeley literature)](sample_project/Sample project_31219.nvpx)
+- [PC sample project (for Mendeley literature)](sample_project/TestIntermediateWS_PC_updated (NVivo 12).nvp)
+- [Mac literature review code list](sample_project/Literature_Review_Code_List_MAC.nvpx)
+- [PC literature review code list](sample_project/Literature_Review_Code_List_PC.nvp)
+
+## Handouts
+Handouts from previous versions of NVivo (not required for the workshop)
+- [Mac how-to introductory guide](handouts/20160928_NVivo_Workshop_1_Mac_Howto.pdf)
+- [PC how-to introductory guide](handouts/20180716_NVivo_Workshop_1_PC_Basic_HowTo.pdf)
+- [Mac how-to interhandoutste guide](handouts/20180802_NVivo_2_PC_Classifications_Datasets_HowTo (1).pdf)
+- [PC how-to interhandoutste guide](handouts/20180802_NVivo_2_PC_Classifications_Datasets_HowTo (1).pdf)
 
 
-## Recommended readings
 
-- Bazeley, P. (2020). Qualitative Data Analysis: Practical Strategies. Sage.
-- Bernard, H. R., Wutich, A., & Ryan, G. W. (2017). [Analyzing qualitative data: Systematic approaches (Second ed.)](https://tinyurl.com/y6onkhz){:target="_blank"} SAGE.
-- Clarke, V., & Braun, V. (2013). [Successful qualitative research: A practical guide for beginners](https://tinyurl.com/y4akzmdd){:target="_blank"}. Sage.
-- Jackson & Bazeley (2019). [Qualitative data analysis with NVivo](http://resolve.library.ubc.ca/cgi-bin/catsearch?bid=9917080){:target="_blank"}. Sage.    
-- Lewins, A., & Silver, C. (2014). [Using software in qualitative research: A step-by-step guide (2nd ed.)](https://tinyurl.com/y3uhl4m3){:target="_blank"}. SAGE Publications, Limited.
-- Maxwell, J. A. (2013). [Qualitative research design: an interactive approach](http://resolve.library.ubc.ca/cgi-bin/catsearch?bid=5959012){:target="_blank"} (Applied social research methods, Vol. 41). Sage publications.
-- Miles, M. B., Huberman, A. M., & Saldaña, J. (2020). [Qualitative data analysis: a methods sourcebook](http://resolve.library.ubc.ca/cgi-bin/catsearch?bid=9917081){:target="_blank"}. 3rd. ed: Thousand Oaks, CA: Sage.
-- Paulus, T.M., & Lester, J.N. (2021). Doing Qualitative Research in a Digital World. Sage.
-- Richards, L. (2009). [Handling qualitative data: a practical guide](http://resolve.library.ubc.ca/cgi-bin/catsearch?bid=4168238){:target="_blank"}. Sage.
-- Richards, L., & Morse, J. M. (2013). [Readme first for a user's guide to qualitative methods (3rd ed.)](https://tinyurl.com/y3qsgo4v){:target="_blank"}. Sage.
-- Saldaña, J. (2021). The coding manual for qualitative researchers (4th ed). Sage.  
-- Swedberg, R. (2014). The Art of Social Theory. Princeton University Press.
-- Tavory, I., & Timmermans, S. (2014). Abductive analysis: Theorizing qualitative research. University of Chicago Press.
-- Wallace, M. & Wray, A. (2011). Critical Reading and Writing for Postgraduates. Sage
-- Wertz, F. J. (2011). [Five ways of doing qualitative analysis: Phenomenological psychology, grounded theory, discourse analysis, narrative research, and intuitive inquiry](https://tinyurl.com/y3oo727y){:target="_blank"}. Guilford Press.
-- Wolcott, H. F. (1994). Transforming qualitative data: description, analysis, and interpretation. Sage
-- Woolf, N. H., & Silver, C. (2017). [Qualitative analysis using NVivo: The five level QDA method](http://tinyurl.com/yaxcdyee){:target="_blank"}. Routledge.

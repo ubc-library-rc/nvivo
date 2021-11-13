@@ -1,3 +1,10 @@
+---
+nav_exclude: true
+---
+
+List of video resources identified by Amir Michalovich during 2021 OER-funded project. Links to most of these videos are published on GitHub site (see 'video_resources.md'). Where there is more than one video per heading, only the first was added to the site; this file was kept in case we want to add the others later. -Jeremy
+
+
 <table>
 <thead>
 <tr class="header">
