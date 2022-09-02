@@ -50,8 +50,7 @@ Files from an NVivo sample project that documented community perceptions of deve
 Handouts from previous versions of NVivo (not required for the workshop)
 - [Mac how-to introductory guide](handouts/20160928_NVivo_Workshop_1_Mac_Howto.pdf)
 - [PC how-to introductory guide](handouts/20180716_NVivo_Workshop_1_PC_Basic_HowTo.pdf)
-- [Mac how-to interhandoutste guide](handouts/20180802_NVivo_2_PC_Classifications_Datasets_HowTo.pdf)
-- [PC how-to interhandoutste guide](handouts/20180802_NVivo_2_PC_Classifications_Datasets_HowTo.pdf)
+- [PC how-to intermediate guide](handouts/20180802_NVivo_2_PC_Classifications_Datasets_HowTo.pdf)
 
 
 
